@@ -1,10 +1,12 @@
-# Curso de Programación Orientada a Objetos: POO
+# Object Oriented Programming Course: OOP
 
-> Documentos del proyecto del curso y modelo uml de Uber
+> Documents and some information about the platzi course uber project includes uml diagram
 
-- Apartado de Lenguajes
+- Language List
 
-| Features   | Tutorials            |
+in this course we code in 4 programming languages, to understand how this work in each technology.
+
+| Language   | Link                 |
 | ---------- | :------------------- |
 | Javascript | [:link:][javascript] |
 | Java       | [:link:][java]       |
@@ -16,6 +18,6 @@
 [php]: https://github.com/Kevin-Cabrera/curso-poo-platzi/tree/master/PHP
 [python]: https://github.com/Kevin-Cabrera/curso-poo-platzi/tree/master/Python
 
-- UML diagrams
+- UML diagram
 
 ![](https://github.com/Kevin-Cabrera/curso-poo-platzi/blob/master/Diagrama-uml-uber.jpg)
