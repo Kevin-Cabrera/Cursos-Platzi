@@ -20,4 +20,4 @@ in this course we code in 4 programming languages, to understand how this work i
 
 - UML diagram
 
-![](https://github.com/Kevin-Cabrera/curso-poo-platzi/blob/master/Diagrama-uml-uber.jpg)
+![](https://github.com/Kevin-Cabrera/opp-course-platzi/blob/master/uml-diagram-uber.jpg)
