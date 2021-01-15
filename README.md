@@ -18,15 +18,4 @@
 
 - UML diagrams
 
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
-
-- Auto-generated Table of Content
-  [ToC]
-
-> Leave in-line comments! [color=#3b75c6]
+![](https://github.com/Kevin-Cabrera/curso-poo-platzi/blob/master/Diagrama-uml-uber.jpg)
